@@ -50,6 +50,7 @@ I'm a passionate coder focused on **software development** and **electronics eng
 [![GitHub Streak](https://streak-stats.demolab.com?user=diodeengineer&theme=radical)](https://git.io/streak-stats)
 
 ## 🔥 Latest Projects  
+- <a href="https://t.me/aifaceeditbot"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> **Telegram Bot**: A Telegram bot that performs face swaps by automating a scraping process on a website. It uses **Playwright** to navigate the site, upload images, and retrieve the final result, all from within the Telegram chat interface.
 - 🎥 **Video Upload System**: A video uploading platform with adaptive bitrate streaming using Next.js, AWS S3, and video transcoding.  
 - 🏎️ **Car Reservation System**: Built a seat reservation system with MongoDB, Express, and Next.js.  
 - 📚 **ML Banana Counter**: Developing a full stack web app using ReactNative Expo and python for counting banana.  
