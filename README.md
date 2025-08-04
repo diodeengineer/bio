@@ -50,10 +50,8 @@ I'm a passionate coder focused on **software development** and **electronics eng
 [![GitHub Streak](https://streak-stats.demolab.com?user=diodeengineer&theme=radical)](https://git.io/streak-stats)
 
 ## 🔥 Latest Projects  
-- <img src="https://img.shields.io/badge/Available%20on%20Expo-000?style=for-the-badge&logo=expo&logoColor=white" alt="Available on Expo" />
-  An Android emergency app that turns on the flashlight when it detects sudden movements using the device's accelerometer. It also includes a manual button for turning the flashlight on and off.
-   <a href="https://drive.google.com/file/d/1x0lN-9hozfSZVJFx7rfNCo00vVXaNg_8/view?usp=sharing" target="_blank">
-</a>
+-  <a href="https://drive.google.com/file/d/1x0lN-9hozfSZVJFx7rfNCo00vVXaNg_8/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/react-native-expo?style=for-the-badge&logo=reactnativeexpo&logoColor=white" alt="React Native App" />
+</a> An Android emergency app that turns on the flashlight when it detects sudden movements using the device's accelerometer. It also includes a manual button for turning the flashlight on and off. 
 
 
 
