@@ -50,6 +50,13 @@ I'm a passionate coder focused on **software development** and **electronics eng
 [![GitHub Streak](https://streak-stats.demolab.com?user=diodeengineer&theme=radical)](https://git.io/streak-stats)
 
 ## 🔥 Latest Projects  
+- <img src="https://img.shields.io/badge/Available%20on%20Expo-000?style=for-the-badge&logo=expo&logoColor=white" alt="Available on Expo" />
+  An Android emergency app that turns on the flashlight when it detects sudden movements using the device's accelerometer. It also includes a manual button for turning the flashlight on and off.
+   <a href="https://drive.google.com/file/d/1x0lN-9hozfSZVJFx7rfNCo00vVXaNg_8/view?usp=sharing" target="_blank">
+</a>
+
+
+
 - <a href="https://t.me/aifaceeditbot"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> **Telegram Bot**: A Telegram bot that performs face swaps by automating a scraping process on a website. It uses **Playwright** to navigate the site, upload images, and retrieve the final result, all from within the Telegram chat interface.
 - 🎥 **Video Upload System**: A video uploading platform with adaptive bitrate streaming using Next.js, AWS S3, and video transcoding.  
 - 🏎️ **Car Reservation System**: Built a seat reservation system with MongoDB, Express, and Next.js.  
